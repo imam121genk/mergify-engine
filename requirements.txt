@@ -46,7 +46,7 @@ uvicorn==0.13.4
 uvloop==0.15.2
 voluptuous==0.12.1
 watchgod==0.7
-websockets==8.1
+websockets==10.0
 Werkzeug==1.0.1
 -e git+http://github.com/sileht/aredis.git@prod-mergify#egg=aredis
 -e .
